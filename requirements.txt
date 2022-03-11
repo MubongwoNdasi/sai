@@ -14,7 +14,7 @@ html5lib==1.0.1
 idna==2.8
 oauthlib==3.0.1
 phonenumbers==8.10.13
-Pillow==6.0.0
+Pillow==9.0.1
 progressbar2==3.42.0
 psycopg2==2.8.3
 pycodestyle==2.5.0
